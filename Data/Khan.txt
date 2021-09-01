@@ -1,0 +1,6 @@
+The data consists of a number of tissue samples corresponding to four distinct types of small round blue cell tumors. 
+For each tissue sample, 2308 gene expression measurements are available.
+
+The format is a list containing four components: xtrain, xtest, ytrain, and ytest. 
+xtrain contains the 2308 gene expression values for 63 subjects and ytrain records the corresponding tumor type. 
+ytrain and ytest contain the corresponding testing sample information for a further 20 subjects.

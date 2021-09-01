@@ -1,0 +1,2 @@
+Gene expression data set that consists of 40 tissue samples with measurements on 1,000 genes. 
+The first 20 samples are from healthypatients, while the second 20 are from a diseased group.

@@ -1,0 +1,7 @@
+Customer default records for a credit card company.
+
+Columns:
+- default: A factor with levels No and Yes indicating whether the customer defaulted on their debt.
+- student: A factor with levels No and Yes indicating whether the customer is a student.
+- balance: The average balance that the customer has remaining on their credit card after making their monthly payment.
+- income: Income of customer.

@@ -1,0 +1,12 @@
+Gas mileage, horsepower, and other information for 392 vehicles.
+
+Columns:
+- mpg: miles per gallon.
+- cylinders: number of cylinders between 4 and 8.
+- displacement: engine displacement (cu. inches).
+- horsepower: engine horsepower.
+- weight: vehicle weight (lbs.).
+- acceleration: time to accelerate from 0 to 60 mph (sec.).
+- year: model year (modulo 100).
+- origin: origin of car (1. American, 2. European, 3. Japanese).
+- name: vehicle name.

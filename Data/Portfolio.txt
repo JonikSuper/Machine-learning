@@ -1,0 +1,3 @@
+A simple simulated data set containing 100 returns for each of two assets, X and Y. 
+The data is used to estimate the optimal fraction to invest in each asset to minimize investment risk of the combined portfolio.
+

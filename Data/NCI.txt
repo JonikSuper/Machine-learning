@@ -1,0 +1,4 @@
+Gene expression measurements for 64 cancer cell lines.
+
+The format is a list containing two elements: data and labs.
+data is a 64 by 6830 matrix of the expression values while labs is a vector listing the cancer types for the 64 cell lines.

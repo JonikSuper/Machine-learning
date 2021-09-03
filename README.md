@@ -11,4 +11,4 @@ This project consider the main concepts of Maching learning such as:
 
 "Data" folder contain csv-data files with discription (.txt).
 
-Code present in two versions: R and Python.
+Code present in two languages: R and Python. Both wrote in Jupyter Notebook (R initially in RStudio).
